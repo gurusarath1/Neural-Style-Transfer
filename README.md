@@ -1,1 +1,1 @@
-# Nueral-Style-Transfer
+# Neural-Style-Transfer
