@@ -1,0 +1,18 @@
+DEVICE = 'cpu'
+
+CONTENT_IMAGE_PATH = './content_image_11.jpg'
+STYLE_IMAGE_PATH = './style_image_18.jpg'
+SAVED_IMAGE_DIR = './saved_images/'
+
+INPUT_IMAGE_SIZE = 300
+IMAGE_MEANS = (0.485, 0.456, 0.406)
+IMAGE_STDS = (0.229, 0.224, 0.225)
+
+CONTENT_LOSS_WEIGHT = 1e6
+STYLE_LOSS_WEIGHT = 1e7
+VARIATION_LOSS_WEIGHT = 3
+
+NUM_EPOCHS = 3000
+LEARNING_RATE = 0.01
+
+AUTHOR = 'Guru Sarath Thangamani'
