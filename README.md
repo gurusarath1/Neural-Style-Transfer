@@ -1,6 +1,5 @@
 # Neural-Style-Transfer
 ## Python/Machine Learning
-***
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guru-sarath-t-4ab648131/">
@@ -8,7 +7,6 @@
   </a>
 </div>
 
-***
 ## Description
 
 
