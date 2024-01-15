@@ -12,7 +12,8 @@ Python code to transfer the style from one image (style-image) to another image 
 
 ## How to run?
 - [x] Install the required dependencies using ```environment.yml``` file
-- [x] Step 2
+- [x] Give the content image, style image, and output folder path in the ```NST_project_settings.py``` file.
+- [x] Run ```main.py```
 
 
 
