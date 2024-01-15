@@ -1,6 +1,13 @@
 # Neural-Style-Transfer
 ## Python/Machine Learning
 ***
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guru-sarath-t-4ab648131/">
+    <img src="https://raw.githubusercontent.com/gurusarath1/gurusarath1/main/includes/images/GitHubLogo_G_anitmation.gif" alt="Guru Sarath T" width="72" height="72">
+  </a>
+</div>
+
 ***
 ## Description
 
