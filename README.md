@@ -11,8 +11,8 @@
 Python code to transfer the style from one image (style-image) to another image (content-image).
 
 ## How to run?
-- Step 1
-- Step 2
+- [x] Install the required dependencies using ```environment.yml``` file
+- [x] Step 2
 
 
 
