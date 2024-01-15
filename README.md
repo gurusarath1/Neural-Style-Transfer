@@ -8,9 +8,7 @@
 </div>
 
 ## Description
-
-
-Some Des
+Python code to transfer the style from one image (style-image) to another image (content-image).
 
 ## How to run?
 - Step 1
